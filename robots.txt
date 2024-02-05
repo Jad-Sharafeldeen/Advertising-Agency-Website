@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /work
+Disallow: /connection
+Disallow: /mainStyle.css
+Disallow: /servicesStyle.css
+Disallow: /aboutusStyle.css
+Disallow: /intouchStyle.css
+Disallow: /workStyle.css
+Allow: /
+Sitemap: https://www.moonlines.net/sitemap.xml
+
+
